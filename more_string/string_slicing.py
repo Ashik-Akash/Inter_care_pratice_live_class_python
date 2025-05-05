@@ -7,4 +7,6 @@ print(hello)
 print(hello1)
 
 world = string [5:] #count Spece
+wrold1 = string[6:]
 print(world)
+print(wrold1)
