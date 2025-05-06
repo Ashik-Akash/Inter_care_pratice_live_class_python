@@ -1,5 +1,7 @@
+marks = int(input("Enter your marks: "))
 
-marks = 44
+if marks>100:
+    print("Uncountable marks!")
 
 if marks<=100 and marks>=80:
     print("Yours great is : A+")
