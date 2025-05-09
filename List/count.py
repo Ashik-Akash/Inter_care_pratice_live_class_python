@@ -1,2 +1,3 @@
-name = ['Ashik','ikbal','Akash','Sakil','Rafiq']
-print(name)
+name = ['Ashik','ikbal','Akash','Sakil','Rafiq','Ashik']
+
+print(name.count('Ashik'))
