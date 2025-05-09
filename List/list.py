@@ -1,2 +1,2 @@
 city = ['Dhaka','barisal','Khulna']
-print(city)
+print(city[2])
